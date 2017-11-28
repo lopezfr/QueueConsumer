@@ -9,7 +9,7 @@
 */.classpath
 */.factorypath
 */.gitignore
-/SpringRestHibernateExample.iml
+/QueueConsumer.iml
 /nb-configuration.xml
 */target/
 **/node_modules/
